@@ -441,11 +441,11 @@ https://yahoo-samsung.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Religion" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",Iqra Bangla
-https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
+//#EXTINF:-1 group-title="Religion" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",Iqra Bangla
+//https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
 
-#EXTINF:-1 group-title="Religion" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",Sada TV
-http://cdn12.henico.net:8080/live/sadatv/index.m3u8
+//#EXTINF:-1 group-title="Religion" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",Sada TV
+//http://cdn12.henico.net:8080/live/sadatv/index.m3u8
 
 
 
