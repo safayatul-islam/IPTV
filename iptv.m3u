@@ -244,13 +244,6 @@ https://jmp2.uk/sam-GB340000289.m3u8
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
 
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="International" tvg-logo="https://i.postimg.cc/02CNFVwv/Star-Movies-HD.jpg",AXN
 https://ddy6new.newkso.ru/ddy6/premium717/mono.m3u8
 
@@ -364,17 +357,11 @@ https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://i.postimg.cc/HxDhtfTy/Wild-Earth.jpg",Xplore
 https://xlpore-samsungus.amagi.tv/playlist.m3u8
 
-
-
-
-
-
-
 #EXTINF:-1 group-title="International" tvg-logo="https://i.imgur.com/e3cYtrb.jpg",Aaj Tak HD (IN)
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
 
-#EXTINF:-1 group-title="International" tvg-logo="https://i.imgur.com/e3cYtrb.jpg",Aljazeera
+#EXTINF:-1 group-title="International" tvg-logo="https://emergencyuk.org/wp-content/uploads/2017/03/Aljazeera-logo-English-1024x768.png",Aljazeera
 https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",BBC World News
