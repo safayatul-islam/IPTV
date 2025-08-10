@@ -291,12 +291,20 @@ http://212.102.60.231/WORLD_FISHING_NETWORK/index.m3u8
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-#EXTINF:-1 tvg-id="AlJazeeraBalkans.ba" tvg-logo="https://i.imgur.com/vMzCr8O.png" group-title="News & Infotainment",Al Jazeera
+#EXTINF:-1 tvg-id="AlJazeeraBalkans.ba" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/2560px-Aljazeera_eng.svg.png" group-title="News & Infotainment",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN - BBC WORLD NEWS " tvg-logo="https://go4.pw/ASIA/INDIA/BBC-WORLD-NEWS.png" group-title="News & Infotainment",BBC News
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/809075
 #EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - DW NEWS " tvg-logo="https://go4.pw/NEWS%26FACTUAL/DWARABIC.png" group-title="News & Infotainment",DW News
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/510218
+
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - CNN INTL " tvg-logo="https://go4.pw/USA/CNN.png" group-title="News & Infotainment",CNN
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/510278
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - EURO NEWS " tvg-logo="https://go4.pw/germany/eurns.png" group-title="News & Infotainment",EURO News
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/510257
+
+#EXTINF:-1 tvg-id="" tvg-name="ENGLISH - BLOOMBERG INDIA" tvg-logo="https://go4.pw/ASIA/INDIAN/BLOOMBERGINDIA.png" group-title="News & Infotainment",BLOOMBERG
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/34714
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News & Infotainment",Pluto TV Science
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767b4889bca2ce7b73ef2e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc85c841-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a2a5a32b-6b54-46b8-9676-29c0ec343296
@@ -321,10 +329,7 @@ https://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="SmithsonianChannelSelects.us" tvg-logo="https://images.pluto.tv/channels/5f21ea08007a49000762d349/featuredImage.jpg" group-title="News & Infotainment",Smithsonian Channel Selects
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21ea08007a49000762d349/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb094-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=984e1d1d-6d7f-4f0b-98a5-825ccb67a891
 
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - CNN INTL " tvg-logo="https://go4.pw/USA/CNN.png" group-title="News & Infotainment",CNN
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/510278
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - EURO NEWS " tvg-logo="https://go4.pw/germany/eurns.png" group-title="News & Infotainment",EURO News
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/510257
+
 
 #EXTINF:-1 tvg-id="nationalgeographicchannel.in" tvg-name="BENGALI - NAT GEO " tvg-logo="https://go4.pw/ASIA/BENGALI/NATGEOWILDD.png" group-title="News & Infotainment",NAT GEO
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/34729
@@ -584,8 +589,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="##### IN|UK - INDIA [EUROPE/UK]" tvg-logo="https://go4.pw/FLAGS/flag_india.png" group-title="Indian",##### In|uk - India [europe/uk]
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/72529
+
 #EXTINF:-1 tvg-id="ptcpunjabi.in" tvg-name="IN|UK - PTC NEWS" tvg-logo="https://go4.pw/ASIA/PUMJABI/PTCNEWS.png" group-title="Indian",Ptc News
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/72523
 #EXTINF:-1 tvg-id="abpnews.in" tvg-name="IN|UK - ABP NEWS" tvg-logo="https://go4.pw/India/ABP_NEWS .png" group-title="Indian",Abp News
@@ -642,8 +646,7 @@ http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/72517
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/72516
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="IN|UK - UTSAV PLUS" tvg-logo="https://go4.pw/ASIA/INDIA/Utsav-Plus.png" group-title="Indian",Utsav Plus
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/72501
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="##### HINDI - GENERAL #####" tvg-logo="https://go4.pw/FLAGS/flag_india.png" group-title="Indian",##### Hindi - General #####
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/72133
+
 #EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - INDIA TV" tvg-logo="https://go4.pw/India/_INDIA TV.png" group-title="Indian",India TV
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/256067
 #EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - INDIA TODAY" tvg-logo="https://go4.pw/ASIA/INDIA/INDIA_TODAY.png" group-title="Indian",India Today
@@ -1158,8 +1161,7 @@ http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/606156
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/606157
 #EXTINF:-1 tvg-id="" tvg-name="HINDI - COLORS FHD" tvg-logo="https://go4.pw/ASIA/INDIA/COLORS.png" group-title="Indian",Colors
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/808857
-#EXTINF:-1 tvg-id="" tvg-name="##### GOLDTV 24/7 CHANNELS #####" tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="Indian",##### Goldtv 24/7 Channels #####
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1018082
+
 #EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - GOOD TIMES HD" tvg-logo="https://go4.pw/ASIA/INDIA/GOOD_TIMES_HD.png" group-title="Indian",Good Times
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/510212
 #EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - DABANGG HD" tvg-logo="https://go4.pw/ASIA/INDIA/DABANGG.png" group-title="Indian",Dabangg
