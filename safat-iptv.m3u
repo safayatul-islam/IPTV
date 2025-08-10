@@ -4,6 +4,12 @@
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::BANGLADESHI::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+#EXTINF:-1 tvg-id="PeaceTVBangla.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg" group-title="Bangladesh",Peace TV Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+
+#EXTINF:-1 tvg-id="PeaceTVEnglish.ae" tvg-logo="https://i.imgur.com/rjgCM2B.png" group-title="Bangladesh",Peace TV English
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Logo_of_Channel_24_%28Bangladesh%29.svg/800px-Logo_of_Channel_24_%28Bangladesh%29.svg.png",Channel 24
 https://tvsen6.aynaott.com/channel24/index.m3u8
 
@@ -94,6 +100,24 @@ https://tvsen6.aynaott.com/globaltvhd/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png",Ekhon TV
 https://tvsen6.aynaott.com/ekhontv/index.m3u8
 
+#EXTINF:-1 tvg-id="MakkahTV.sa" tvg-logo="https://i.imgur.com/PRPcOi0.png" group-title="Religious",Makkah TV
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+
+#EXTINF:-1 tvg-id="QuranTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/d/df/Quarntvlogo.png" group-title="Bangladesh",Quran
+https://lenz.splus.ir/PLTV/88888888/224/3221226144/index.m3u8
+
+#EXTINF:-1 tvg-id="WesalTV.id" tvg-logo="https://i.imgur.com/Uv8RWks.png" group-title="Bangladesh",Wesal TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
+
+#EXTINF:-1 tvg-id="MarjaeyatTVEnglish.iq" tvg-logo="https://i.imgur.com/Dvf61Jp.png" group-title="Bangladesh",Marjaeyat TV English
+https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MadaniChannelBangla.bd" tvg-logo="https://i.imgur.com/vIJTVia.png" group-title="Bangladesh",Madani Channel Bangla
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+
+#EXTINF:-1 tvg-id="IslamChannelUrdu.uk" tvg-logo="https://i.imgur.com/j1ZBAgg.png" group-title="Bangladesh",Islam Channel Urdu
+https://live-islamtv-urdu.simplestreamcdn.com/live13/islamtv_urdu/bitrate1.isml/live.m3u8
+
 
 
 
@@ -121,6 +145,14 @@ http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/175131
 #EXTINF:-1 tvg-id="" tvg-name="HINDI - CARTOON NETWORK HEVC" tvg-logo="https://go4.pw/ASIA/INDIA/CARTOON-NETWORK.png" group-title="Kids",Cartoon Network HEVC
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/808800
 
+#EXTINF:-1 tvg-id="DisneyChannel.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Kids",Disney Channel East
+https://fl5.moveonjoy.com/DISNEY/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyXD.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" group-title="Kids",Disney XD (720p)
+http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
+
+
+
 #EXTINF:-1  tvg-id="babyfirst.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/baby-first-tv-us.png?raw=true" group-title="Kids" radio="false",Baby First
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
 
@@ -129,6 +161,17 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png" group-title="Kids",TRT Cocuk
 http://185.234.111.229:8000/play/a00b
+
+#EXTINF:-1 tvg-id="CampSpoopy.us" tvg-logo="https://i.imgur.com/8PUbPVU.png" group-title="Kids",Camp Spoopy (576p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
+
+#EXTINF:-1 tvg-id="PooyaTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png" group-title="Kids",Pooya TV
+http://dvrfl05.bozztv.com/gin-iribpooya/index.m3u8
+#EXTINF:-1 tvg-id="PooyaTVPlus.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png" group-title="Kids",Pooya TV Plus
+https://ncdn.telewebion.com/javaneh/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RoyaKidsOriginals.jo" tvg-logo="https://i.imgur.com/acuCGF8.png" group-title="Kids",Roya Kids Originals
+https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-logo="https://i.imgur.com/8PmXz9t.png" group-title="Kids",TRT Diyanet Çocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
@@ -167,8 +210,9 @@ https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS - SPORTS 18 F" tvg-logo="https://go4.pw/ASIA/INDIAN/SPORTS 18 UK.png" group-title="Adventure & Sports",18
+#EXTINF:-1 group-title="Adventure & Sports" tvg-logo="https://i.postimg.cc/nrz1NpPV/Red-Bull-TV.jpg",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - SPORTS 18 F" tvg-logo="https://go4.pw/ASIA/INDIAN/SPORTS 18 UK.png" group-title="Adventure & Sports",Sports 18
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1090632
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS - D SPORTS  F" tvg-logo="https://go4.pw/ASIA/INDIAN/D SPORTS .png" group-title="Adventure & Sports",D SPORTS 
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1090633
@@ -212,8 +256,7 @@ http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1090651
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1090652
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS - SPORTS 18 UK F" tvg-logo="https://go4.pw/ASIA/INDIAN/SPORTS 18 UK.png" group-title="Adventure & Sports",SPORTS 18 UK
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1090653
-#EXTINF:-1 group-title="Adventure & Sports" tvg-logo="https://i.postimg.cc/nrz1NpPV/Red-Bull-TV.jpg",Redbull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
 #EXTINF:-1 group-title="Adventure & Sports" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports 
 http://38.96.178.201/live/TSports/index.m3u8
 #EXTINF:-1 group-title="Adventure & Sports" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports 
@@ -267,10 +310,7 @@ https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AdventureSportsTV.us@SD" tvg-logo="https://i.imgur.com/9oyc88J.png" group-title="Adventure & Sports",Adventure Sports TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63c9550df13a9b00078677a7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c78f511-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4bd268c5-ffe8-41b9-87eb-00b21764a8c4
 
-#EXTINF:-1 tvg-id="AlJazeeraBalkans.ba" tvg-logo="https://i.imgur.com/vMzCr8O.png" group-title="Adventure & Sports",Al Jazeera Balkans
-https://live-hls-apps-ajb-v3-fa.getaj.net/AJB/index.m3u8
 
-#EXTINF:-1 tvg-id="AlJazeeraInternational.qa" tvg-logo="https://i.imgur.com/5dNJlLo.png" group-title="Adventure & Sports",Al Jazeera International
 
 #EXTINF:-1 tvg-id="AlMadina.ps" tvg-logo="https://i.imgur.com/NVOeM3P.png" group-title="Adventure & Sports",Al Madina
 https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8
@@ -330,12 +370,37 @@ http://212.102.60.231/WORLD_FISHING_NETWORK/index.m3u8
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-
+#EXTINF:-1 tvg-id="AlJazeeraBalkans.ba" tvg-logo="https://i.imgur.com/vMzCr8O.png" group-title="News & Infotainment",Al Jazeera Balkans
+https://live-hls-apps-ajb-v3-fa.getaj.net/AJB/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN - BBC WORLD NEWS " tvg-logo="https://go4.pw/ASIA/INDIA/BBC-WORLD-NEWS.png" group-title="News & Infotainment",IN - BBC News
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/809075
 #EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - DW NEWS " tvg-logo="https://go4.pw/NEWS%26FACTUAL/DWARABIC.png" group-title="News & Infotainment",DW News
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/510218
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - CNN INTL " tvg-logo="https://go4.pw/USA/CNN.png" group-title="News & Infotainment",HINDI - CNN INTL
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News & Infotainment",Pluto TV Science
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767b4889bca2ce7b73ef2e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc85c841-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a2a5a32b-6b54-46b8-9676-29c0ec343296
+#EXTINF:-1 tvg-id="PlutoTVScience.us" tvg-logo="https://i.imgur.com/uhunRoU.png" group-title="News & Infotainment",Pluto TV Science US
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b61-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=31adb772-adc8-4202-ad66-25e3c1a49df7
+#EXTINF:-1 tvg-id="PlutoTVScience.us@Austria" tvg-logo="https://i.imgur.com/uhunRoU.png" group-title="News & Infotainment",Pluto TV Science Austria
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767b4889bca2ce7b73ef2e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b2022d1-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d9359c6b-8339-43a0-b9ee-5200b879ac5f
+#EXTINF:-1 tvg-id="PlutoTVScience.us@Germany" tvg-logo="https://i.imgur.com/uhunRoU.png" group-title="News & Infotainment",Pluto TV Science Germany
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767b4889bca2ce7b73ef2e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aeeea1-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=823a3c37-13b3-4ca9-b978-d98c2630c834
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News & Infotainment",Pluto TV Space
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61409f8d6feb30000766b675/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc85c846-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=107edfdc-70b3-44a9-b352-7604fe6120d9
+#EXTINF:-1 tvg-id="PlutoTVSpace.us@Austria" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="News & Infotainment",Pluto TV Space Austria
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61409f8d6feb30000766b675/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b2022d6-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=23eefcec-8774-42a3-8e77-66e6e59575a3
+#EXTINF:-1 tvg-id="PlutoTVSpace.us@Germany" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="News & Infotainment",Pluto TV Space Germany
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61409f8d6feb30000766b675/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aeeea6-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=aee0c343-6689-49c1-9090-319522e3c837
+
+
+#EXTINF:-1 tvg-id="SmithsonianChannel.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/512px-SmithsonianChannellogo.png" group-title="News & Infotainment",Smithsonian Channel East
+https://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="SmithsonianChannelSelects.us" tvg-logo="https://images.pluto.tv/channels/5f21ea08007a49000762d349/featuredImage.jpg" group-title="News & Infotainment",Smithsonian Channel Selects
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21ea08007a49000762d349/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb094-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=984e1d1d-6d7f-4f0b-98a5-825ccb67a891
+
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - CNN INTL " tvg-logo="https://go4.pw/USA/CNN.png" group-title="News & Infotainment",CNN
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/510278
 #EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - EURO NEWS " tvg-logo="https://go4.pw/germany/eurns.png" group-title="News & Infotainment",EURO News
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/510257
@@ -452,7 +517,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 
 
-
+#EXTINF:-1 tvg-id="PersianaScience.fr" tvg-logo="https://i.postimg.cc/jd3ck5dw/persiana-science512.png" group-title="Science",Persiana Science
+https://scihls.persiana.live/hls/stream.m3u8
 
 
 
