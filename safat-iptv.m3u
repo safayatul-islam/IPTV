@@ -122,6 +122,7 @@ http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/175131
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/808800
 
 #EXTINF:-1  tvg-id="babyfirst.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/baby-first-tv-us.png?raw=true" group-title="Kids" radio="false",Baby First
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
 
 #EXTINF:-1 tvg-id="TomAndJerry.us@" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Tom_and_Jerry_logo.svg" group-title="Kids",Tom And Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
