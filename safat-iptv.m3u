@@ -4,11 +4,6 @@
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::BANGLADESHI::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-#EXTINF:-1 tvg-id="PeaceTVBangla.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/d/d3/%E0%A6%AA%E0%A6%BF%E0%A6%B8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.png" group-title="Bangladesh",Peace TV Bangla
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
-
-#EXTINF:-1 tvg-id="PeaceTVEnglish.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png" group-title="Bangladesh",Peace TV English
-https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Logo_of_Channel_24_%28Bangladesh%29.svg/800px-Logo_of_Channel_24_%28Bangladesh%29.svg.png",Channel 24
 https://tvsen6.aynaott.com/channel24/index.m3u8
@@ -100,6 +95,13 @@ https://tvsen6.aynaott.com/globaltvhd/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png",Ekhon TV
 https://tvsen6.aynaott.com/ekhontv/index.m3u8
 
+#EXTINF:-1 tvg-id="PeaceTVBangla.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/d/d3/%E0%A6%AA%E0%A6%BF%E0%A6%B8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.png" group-title="Bangladesh",Peace TV Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+
+#EXTINF:-1 tvg-id="PeaceTVEnglish.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png" group-title="Bangladesh",Peace TV English
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+
+
 #EXTINF:-1 tvg-id="MakkahTV.sa" tvg-logo="https://i.imgur.com/PRPcOi0.png" group-title="Bangladesh",Makkah TV
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 
@@ -162,7 +164,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png" group-title="Kids",TRT Cocuk
 http://185.234.111.229:8000/play/a00b
 
-#EXTINF:-1 tvg-id="CampSpoopy.us" tvg-logo="https://i.imgur.com/8PUbPVU.png" group-title="Kids",Camp Spoopy (576p)
+#EXTINF:-1 tvg-id="CampSpoopy.us" tvg-logo="https://i.imgur.com/8PUbPVU.png" group-title="Kids",Camp Spoopy
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 
 #EXTINF:-1 tvg-id="PooyaTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png" group-title="Kids",Pooya TV
@@ -370,9 +372,9 @@ http://212.102.60.231/WORLD_FISHING_NETWORK/index.m3u8
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-#EXTINF:-1 tvg-id="AlJazeeraBalkans.ba" tvg-logo="https://i.imgur.com/vMzCr8O.png" group-title="News & Infotainment",Al Jazeera Balkans
-https://live-hls-apps-ajb-v3-fa.getaj.net/AJB/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IN - BBC WORLD NEWS " tvg-logo="https://go4.pw/ASIA/INDIA/BBC-WORLD-NEWS.png" group-title="News & Infotainment",IN - BBC News
+#EXTINF:-1 tvg-id="AlJazeeraBalkans.ba" tvg-logo="https://i.imgur.com/vMzCr8O.png" group-title="News & Infotainment",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN - BBC WORLD NEWS " tvg-logo="https://go4.pw/ASIA/INDIA/BBC-WORLD-NEWS.png" group-title="News & Infotainment",BBC News
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/809075
 #EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - DW NEWS " tvg-logo="https://go4.pw/NEWS%26FACTUAL/DWARABIC.png" group-title="News & Infotainment",DW News
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/510218
@@ -387,7 +389,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767b4889bca2ce7b73ef2e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aeeea1-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=823a3c37-13b3-4ca9-b978-d98c2630c834
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News & Infotainment",Pluto TV Space
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="News & Infotainment",Pluto TV Space
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61409f8d6feb30000766b675/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc85c846-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=107edfdc-70b3-44a9-b352-7604fe6120d9
 #EXTINF:-1 tvg-id="PlutoTVSpace.us@Austria" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="News & Infotainment",Pluto TV Space Austria
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61409f8d6feb30000766b675/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b2022d6-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=23eefcec-8774-42a3-8e77-66e6e59575a3
@@ -517,7 +519,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="PersianaScience.fr" tvg-logo="https://i.postimg.cc/jd3ck5dw/persiana-science512.png" group-title="Science",Persiana Science
+#EXTINF:-1 tvg-id="PersianaScience.fr" tvg-logo="https://i.postimg.cc/jd3ck5dw/persiana-science512.png" group-title="News & Infotainment",Persiana Science
 https://scihls.persiana.live/hls/stream.m3u8
 
 
