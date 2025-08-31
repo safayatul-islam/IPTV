@@ -150,10 +150,10 @@ https://tvsen6.aynaott.com/banglatv/index.m3u8
 http://mbanglatv.jolshabd.com:1935/live/mbanglatv/chunklist_w1542703515.m3u8
 
 
-#EXTINF:-1 group-title="Bangladesh" tvg-logo=""https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/motv.png",Mohona TV 
+#EXTINF:-1 group-title="Bangladesh" tvg-logo=""https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/mohonatv",Mohona TV 
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Bangladesh" tvg-logo=""https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/moviebangla.png",Movie Bangla
+#EXTINF:-1 group-title="Bangladesh" tvg-logo=""https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/movieban.png",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/mytv.png",My TV
