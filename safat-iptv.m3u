@@ -30,19 +30,19 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/SOMOY_TV.png",Somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1692000.m3u8
 
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/BTV_News.png",BTV
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/Bangladesh_Television.png",BTV
 http://103.230.105.252:1935/live/btv/manifest.m3u8
 
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/BTV_Chattogram.png",BTV News
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/BTV_News.png",BTV News
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/Channel_24bd.png",BTV Chattogram
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/BTV_Chattogram.png",BTV Chattogram
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational-ctg.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/Channel_24bd.png",Ekushe ETV
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/Ekushey_Television.png",Ekushe ETV
 https://tvsen6.aynaott.com/etv/index.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/Channel_24bd.png",Ekushe ETV
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/Ekushey_Television.png",Ekushe ETV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/Channel_24bd.png",GTV
