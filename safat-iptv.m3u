@@ -272,6 +272,21 @@ https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://www.redbull.com/v3/resources/images/client/header/red-bull-logo.svg",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
+#EXTINF:-1 tvg-id="AlJazeeraBalkans.ba" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/2560px-Aljazeera_eng.svg.png" group-title="Infotainment",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN - BBC WORLD NEWS " tvg-logo="https://go4.pw/ASIA/INDIA/BBC-WORLD-NEWS.png" group-title="Infotainment",BBC News
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/809075
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - DW NEWS " tvg-logo="https://go4.pw/NEWS%26FACTUAL/DWARABIC.png" group-title="Infotainment",DW News
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/510218
+
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - CNN INTL " tvg-logo="https://go4.pw/USA/CNN.png" group-title="Infotainment",CNN
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/510278
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - EURO NEWS " tvg-logo="https://go4.pw/germany/eurns.png" group-title="Infotainment",EURO News
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/510257
+
+#EXTINF:-1 tvg-id="" tvg-name="ENGLISH - BLOOMBERG INDIA" tvg-logo="https://go4.pw/ASIA/INDIAN/BLOOMBERGINDIA.png" group-title="Infotainment",BLOOMBERG
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/34714
+
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS - SPORTS 18 F" tvg-logo="https://go4.pw/ASIA/INDIAN/SPORTS 18 UK.png" group-title="Infotainment",Sports 18
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1090632
 
@@ -295,12 +310,6 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04
 
 #EXTINF:-1 tvg-id="AsharqInternational.sa" tvg-logo="https://i.imgur.com/v6VsFEt.png" group-title="Infotainment",Asharq International
 https://svs.itworkscdn.net/asharqInternationallive/asharqInternational.smil/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infotainment",Auction Hunters
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ede45d077746000072be0fe/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc82bb03-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3f2717fb-1dc4-4bc1-920e-7ffbaf3d3a22
-
-#EXTINF:-1 tvg-id="AuctionHunters.us@SD" tvg-logo="https://i.imgur.com/4SPOVN7.png" group-title="Infotainment",Auction Hunters
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ede45d077746000072be0fe/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1c7952-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=419716ea-defd-40f9-9cfe-81ca78138875
 
 
 #EXTINF:-1 tvg-id="DuckHuntingTV.us" tvg-logo="https://image.roku.com/developer_channels/prod/b2a80f0a20fc338f22a8289f23d20d19d958470ff1b8df3845c57cbc54ec1245.png" group-title="Infotainment",Duck Hunting TV
@@ -337,20 +346,7 @@ http://212.102.60.231/WORLD_FISHING_NETWORK/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="AlJazeeraBalkans.ba" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/2560px-Aljazeera_eng.svg.png" group-title="Infotainment",Al Jazeera
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IN - BBC WORLD NEWS " tvg-logo="https://go4.pw/ASIA/INDIA/BBC-WORLD-NEWS.png" group-title="Infotainment",BBC News
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/809075
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - DW NEWS " tvg-logo="https://go4.pw/NEWS%26FACTUAL/DWARABIC.png" group-title="Infotainment",DW News
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/510218
 
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - CNN INTL " tvg-logo="https://go4.pw/USA/CNN.png" group-title="Infotainment",CNN
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/510278
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - EURO NEWS " tvg-logo="https://go4.pw/germany/eurns.png" group-title="Infotainment",EURO News
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/510257
-
-#EXTINF:-1 tvg-id="" tvg-name="ENGLISH - BLOOMBERG INDIA" tvg-logo="https://go4.pw/ASIA/INDIAN/BLOOMBERGINDIA.png" group-title="Infotainment",BLOOMBERG
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/34714
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infotainment",Pluto TV Science
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767b4889bca2ce7b73ef2e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc85c841-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a2a5a32b-6b54-46b8-9676-29c0ec343296
