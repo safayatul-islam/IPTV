@@ -199,17 +199,26 @@ https://tvsen4.aynaott.com/durontotv/index.m3u8
 #EXTINF:-1 tvg-id="ZooMoo.sg" tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="Kids",ZooMoo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="HINDI - CARTOON NETWORK" tvg-logo="https://go4.pw/ASIA/INDIAN/CARTOONNETWORK.png" group-title="Kids",Cartoon Network
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/175131
-
-#EXTINF:-1 tvg-id="" tvg-name="HINDI - CARTOON NETWORK HEVC" tvg-logo="https://go4.pw/ASIA/INDIA/CARTOON-NETWORK.png" group-title="Kids",Cartoon Network HEVC
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/808800
 
 #EXTINF:-1 tvg-id="DisneyChannel.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Kids",Disney Channel East
 https://fl5.moveonjoy.com/DISNEY/index.m3u8
 
 #EXTINF:-1 tvg-id="DisneyXD.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" group-title="Kids",Disney XD (720p)
 http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
+
+#EXTINF:0 channel-id="peppapig" channel-number="3720" tvg-logo="https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoPNG_1730733871298.png" tvc-guide-art="https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/featuredImage_1730733758212.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Peppa Pig" tvc-guide-description="Oink, oink! Play along with Peppa Pig as she embarks on adventures with her family and friends. Get ready to laugh, learn and splash in muddle puddles with Peppa on Pluto TV." group-title="Kids", Peppa Pig
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=2492843e-8a6e-11f0-b3bd-880a611a4137&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=85d1b7a2-97e6-4b50-8bdf-d76a7797c5e7&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="nick-jr-pluto-tv-ptv1" channel-number="3700" tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Nick Jr. Pluto TV" tvc-guide-description="Welcome to Nick Jr. Pluto TV where you’ll find your preschooler’s favorite friends from Bubble Guppies, Blue’s Clues, Wallykazam and many more hit shows!" group-title="Kids", Nick Jr. Pluto TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=2492836c-8a6e-11f0-a46d-880a611a4137&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ee868066-a56d-409b-bf15-01a866fcec99&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="mister-rogers-neighborhood" channel-number="3705" tvg-logo="https://images.pluto.tv/channels/65e23f340d4561000821540d/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/65e23f340d4561000821540d/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Mister Rogers' Neighborhood" tvc-guide-description="It’s a beautiful day in the Neighborhood! For more than 30 years, Mister Rogers brought joy to millions of children. Now revisit those special moments with classic episodes of Mister Rogers’ Neighborhood, available 24/7." group-title="Kids", Mister Rogers' Neighborhood
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65e23f340d4561000821540d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=249283e4-8a6e-11f0-afcb-880a611a4137&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6cd67ed8-fb58-4104-b850-43d8be7b3d08&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="pokemon" channel-number="3805" tvg-logo="https://images.pluto.tv/channels/6675c7868768aa0008d7f1c7/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/6675c7868768aa0008d7f1c7/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Pokémon" tvc-guide-description="Explore the world of Pokémon with Ash Ketchum and his partner Pikachu as they make new friends, meet powerful Pokémon, and aim for Ash’s ultimate goal: becoming a Pokémon Master!" group-title="Kids", Pokémon
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6675c7868768aa0008d7f1c7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=2492890c-8a6e-11f0-953f-880a611a4137&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3c85f296-cbe6-48b0-8474-de375a23a68c&userId=&serverSideAds=true
 
 
 #EXTINF:-1  tvg-id="babyfirst.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/baby-first-tv-us.png?raw=true" group-title="Kids" radio="false",Baby First
@@ -218,8 +227,6 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8
 #EXTINF:-1 tvg-id="TomAndJerry.us@" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Tom_and_Jerry_logo.svg" group-title="Kids",Tom And Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png" group-title="Kids",TRT Cocuk
-http://185.234.111.229:8000/play/a00b
 
 #EXTINF:-1 tvg-id="CampSpoopy.us" tvg-logo="https://i.imgur.com/8PUbPVU.png" group-title="Kids",Camp Spoopy
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
@@ -232,8 +239,6 @@ https://ncdn.telewebion.com/javaneh/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RoyaKidsOriginals.jo" tvg-logo="https://i.imgur.com/acuCGF8.png" group-title="Kids",Roya Kids Originals
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-logo="https://i.imgur.com/8PmXz9t.png" group-title="Kids",TRT Diyanet Çocuk
-https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="DoraTV.us" tvg-logo="https://i.imgur.com/zJuSbmU.png" group-title="Kids",Dora TV 1
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c49-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58d418cb-223d-4b93-bc8e-5666e9995949
@@ -274,21 +279,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeeraBalkans.ba" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/2560px-Aljazeera_eng.svg.png" group-title="Infotainment",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IN - BBC WORLD NEWS " tvg-logo="https://go4.pw/ASIA/INDIA/BBC-WORLD-NEWS.png" group-title="Infotainment",BBC News
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/809075
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - DW NEWS " tvg-logo="https://go4.pw/NEWS%26FACTUAL/DWARABIC.png" group-title="Infotainment",DW News
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/510218
 
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - CNN INTL " tvg-logo="https://go4.pw/USA/CNN.png" group-title="Infotainment",CNN
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/510278
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - EURO NEWS " tvg-logo="https://go4.pw/germany/eurns.png" group-title="Infotainment",EURO News
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/510257
-
-#EXTINF:-1 tvg-id="" tvg-name="ENGLISH - BLOOMBERG INDIA" tvg-logo="https://go4.pw/ASIA/INDIAN/BLOOMBERGINDIA.png" group-title="Infotainment",BLOOMBERG
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/34714
-
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS - SPORTS 18 F" tvg-logo="https://go4.pw/ASIA/INDIAN/SPORTS 18 UK.png" group-title="Infotainment",Sports 18
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1090632
 
 #EXTINF:-1 tvg-id="30ADarcizzleOffshore.us" tvg-logo="https://i.imgur.com/Q4l2uao.png" group-title="Infotainment",30A Darcizzle Offshore
 https://30a-tv.com/darcizzle.m3u8
@@ -296,21 +287,6 @@ https://30a-tv.com/darcizzle.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infotainment",Adventure Earth
 https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AdventureSportsTV.us@SD" tvg-logo="https://i.imgur.com/9oyc88J.png" group-title="Infotainment",Adventure Sports TV
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63c9550df13a9b00078677a7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c78f511-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4bd268c5-ffe8-41b9-87eb-00b21764a8c4
-
-
-
-#EXTINF:-1 tvg-id="AlMadina.ps" tvg-logo="https://i.imgur.com/NVOeM3P.png" group-title="Infotainment",Al Madina
-https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infotainment",America's Boating Channel
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04c3a27e-c2a0-420b-8eef-7dae9ab93056/manifest.m3u8
-
-#EXTINF:-1 tvg-id="AsharqInternational.sa" tvg-logo="https://i.imgur.com/v6VsFEt.png" group-title="Infotainment",Asharq International
-https://svs.itworkscdn.net/asharqInternationallive/asharqInternational.smil/playlist_dvr.m3u8
-
 
 #EXTINF:-1 tvg-id="DuckHuntingTV.us" tvg-logo="https://image.roku.com/developer_channels/prod/b2a80f0a20fc338f22a8289f23d20d19d958470ff1b8df3845c57cbc54ec1245.png" group-title="Infotainment",Duck Hunting TV
 https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
@@ -320,12 +296,6 @@ https://fl3.moveonjoy.com/Great_American_Country/index.m3u8
 
 #EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-logo="https://i.imgur.com/1x6zYZr.png" group-title="Infotainment",Horse and Country 
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MyZenTV.fr" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="Infotainment",MyZen TV 
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVNashville.us@SD" tvg-logo="https://i.imgur.com/fHkPbli.png" group-title="Infotainment",Nashville
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cf8d7428730900087c5907/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f04-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=755f7df4-39e5-40b0-b9c3-628ab31d2612
 
 
 
@@ -348,22 +318,13 @@ http://212.102.60.231/WORLD_FISHING_NETWORK/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infotainment",Pluto TV Science
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767b4889bca2ce7b73ef2e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc85c841-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a2a5a32b-6b54-46b8-9676-29c0ec343296
-#EXTINF:-1 tvg-id="PlutoTVScience.us" tvg-logo="https://i.imgur.com/uhunRoU.png" group-title="Infotainment",Pluto TV Science US
+#EXTINF:-1 tvg-id="PlutoTVScience.us" tvg-logo="https://i.imgur.com/uhunRoU.png" group-title="Infotainment",Pluto TV Science
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b61-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=31adb772-adc8-4202-ad66-25e3c1a49df7
-#EXTINF:-1 tvg-id="PlutoTVScience.us@Austria" tvg-logo="https://i.imgur.com/uhunRoU.png" group-title="Infotainment",Pluto TV Science Austria
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767b4889bca2ce7b73ef2e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b2022d1-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d9359c6b-8339-43a0-b9ee-5200b879ac5f
-#EXTINF:-1 tvg-id="PlutoTVScience.us@Germany" tvg-logo="https://i.imgur.com/uhunRoU.png" group-title="Infotainment",Pluto TV Science Germany
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767b4889bca2ce7b73ef2e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aeeea1-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=823a3c37-13b3-4ca9-b978-d98c2630c834
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Infotainment",Pluto TV Space
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61409f8d6feb30000766b675/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc85c846-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=107edfdc-70b3-44a9-b352-7604fe6120d9
-#EXTINF:-1 tvg-id="PlutoTVSpace.us@Austria" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Infotainment",Pluto TV Space Austria
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61409f8d6feb30000766b675/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b2022d6-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=23eefcec-8774-42a3-8e77-66e6e59575a3
-#EXTINF:-1 tvg-id="PlutoTVSpace.us@Germany" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Infotainment",Pluto TV Space Germany
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61409f8d6feb30000766b675/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aeeea6-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=aee0c343-6689-49c1-9090-319522e3c837
+
 
 
 #EXTINF:-1 tvg-id="SmithsonianChannel.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/512px-SmithsonianChannellogo.png" group-title="Infotainment",Smithsonian Channel East
@@ -371,92 +332,7 @@ https://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="SmithsonianChannelSelects.us" tvg-logo="https://images.pluto.tv/channels/5f21ea08007a49000762d349/featuredImage.jpg" group-title="Infotainment",Smithsonian Channel Selects
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21ea08007a49000762d349/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb094-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=984e1d1d-6d7f-4f0b-98a5-825ccb67a891
 
-
-
-#EXTINF:-1 tvg-id="nationalgeographicchannel.in" tvg-name="BENGALI - NAT GEO " tvg-logo="https://go4.pw/ASIA/BENGALI/NATGEOWILDD.png" group-title="Infotainment",NAT GEO
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/34729
-#EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="HINDI - NATIONAL GEOGRAPHIC " tvg-logo="https://go4.pw/EUROPE/FRANCE/NATIONIALGEOGRAPHICCHANNEL.png" group-title="Infotainment",NATIONAL GEOGRAPHIC
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/72220
-
-#EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="ENGLISH - NATIONAL GEOGRAPHIC " tvg-logo="https://go4.pw/ASIA/INDIAN/NATIONIALGEOGRAPHICCHANNEL.png" group-title="Infotainment",NATIONAL GEOGRAPHIC E
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/34693
-
-#EXTINF:-1 tvg-id="discovery.in" tvg-name="HINDI - DISCOVERY WORLD" tvg-logo="https://go4.pw/ASIA/INDIAN/DISCOVERYJEET.png" group-title="Infotainment",DISCOVERY WORLD
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/72191
-#EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IN - ANIMAL PLANET " tvg-logo="https://go4.pw/AUSTRALIA/Animal_Planet.png" group-title="Infotainment",ANIMAL PLANET
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/72168
-#EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="HINDI - NAT GEO WILD " tvg-logo="https://go4.pw/ASIA/INDIA/Nat_Geo_Wild.png" group-title="Infotainment",NAT GEO WILD
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/72219
-#EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="HINDI - NATIONAL GEOGRAPHIC " tvg-logo="https://go4.pw/EUROPE/FRANCE/NATIONIALGEOGRAPHICCHANNEL.png" group-title="Infotainment",NATIONAL GEOGRAPHIC
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/72220
-
-
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - INVESTIGATION DISCOVERY " tvg-logo="https://go4.pw/EUROPE/UK/INVESTIGATIONDISCOVERY-1.png" group-title="Infotainment",INVESTIGATION DISCOVERY
-#EXTINF:-1 tvg-id="" tvg-name="ENGLISH - DISCOVERY WORLD " tvg-logo="https://go4.pw/ASIA/INDIAN/DISCOVERYWORLD.png" group-title="Infotainment",DISCOVERY WORLD
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/34708
-
-#EXTINF:-1 tvg-id="" tvg-name="IN - Discovery Turbo" tvg-logo="https://go4.pw/AMERICA/BRASIL/DISCOVERY-TURBO-1.png" group-title="Infotainment",IN - Discovery Turbo
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/808980
-
-
-#EXTINF:-1 tvg-id="" tvg-name="BANGLA - DISCOVERY  BENGALI" tvg-logo="https://go4.pw/ASIA/INDIA/DISCOVERY-WORLD--1.png" group-title="Infotainment",DISCOVERY BENGALI
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/510485
-
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - SONY BBC EARTH " tvg-logo="https://go4.pw/India/SONY_BBC_EARTH .png" group-title="Infotainment",SONY BBC EARTH
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/72149
-
-
-
-#EXTINF:-1 tvg-id="timesnowhd.in" tvg-name="ENGLISH - TIMES NOW NEWS " tvg-logo="https://go4.pw/ASIA/INDIAN/TIMESNOWNEWS.png" group-title="Infotainment",TIMES NOW NEWS
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/34681
-#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="ENGLISH - AND PRIVE " tvg-logo="https://go4.pw/India/&prive.png" group-title="Infotainment",AND PRIVE
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/34717
-#EXTINF:-1 tvg-id="animalplanet.in" tvg-name="ENGLISH - ANIMAL PLANET WORLD " tvg-logo="https://go4.pw/ASIA/INDIAN/AnimalPlanetWorld.png" group-title="Infotainment",ANIMAL PLANET WORLD
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/34716
-#EXTINF:-1 tvg-id="" tvg-name="ENGLISH - BLOOMBERG INDIA" tvg-logo="https://go4.pw/ASIA/INDIAN/BLOOMBERGINDIA.png" group-title="Infotainment",BLOOMBERG
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/34714
-
-#EXTINF:-1 tvg-id="cnbctv18primehd.in" tvg-name="ENGLISH - CNBC TV18 PRIME NEWS " tvg-logo="https://go4.pw/ASIA/INDIAN/cnbc-tv18.png" group-title="Infotainment",CNBC TV18 PRIME NEWS
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/34711
-#EXTINF:-1 tvg-id="colorsinfinityhd.in" tvg-name="ENGLISH - COLORS INFINITY " tvg-logo="https://go4.pw/ASIA/INDIAN/Colors_Infinityhd.png" group-title="Infotainment",COLORS INFINITY
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/34710
-#EXTINF:-1 tvg-id="comedycentralhd.in" tvg-name="ENGLISH - COMEDY CENTRAL " tvg-logo="https://go4.pw/ASIA/INDIAN/COMEDYCENTRAL.png" group-title="Infotainment",COMEDY CENTRAL
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/34709
-
-#EXTINF:-1 tvg-id="" tvg-name="ENGLISH - DISNEY INTERNATIONAL " tvg-logo="https://go4.pw/ASIA/INDIAN/DISNEYINTERNATIONAL.png" group-title="Infotainment",DISNEY INTERNATIONAL
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/34706
-#EXTINF:-1 tvg-id="etnow.in" tvg-name="ENGLISH - ET NOW " tvg-logo="https://go4.pw/ASIA/INDIAN/ETNOW.png" group-title="Infotainment",ET NOW
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/34704
-#EXTINF:-1 tvg-id="foxlifehd.in" tvg-name="ENGLISH - FOX LIFE " tvg-logo="https://go4.pw/ASIA/INDIAN/FOXLIFE.png" group-title="Infotainment",FOX LIFE
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/34703
-#EXTINF:-1 tvg-id="hbo.in" tvg-name="ENGLISH - HBO INDIA " tvg-logo="https://go4.pw/ASIA/INDIAN/HBOINDIA.png" group-title="Infotainment",HBO INDIA
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/34702
-#EXTINF:-1 tvg-id="historytv18.in" tvg-name="ENGLISH - HISTORY TV18 " tvg-logo="https://go4.pw/ASIA/INDIAN/HISTORYTV18.png" group-title="Infotainment",HISTORY TV18
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/34701
-#EXTINF:-1 tvg-id="mnplushd.in" tvg-name="ENGLISH - MN PLUS " tvg-logo="https://go4.pw/ASIA/INDIAN/MNPLUS.png" group-title="Infotainment",MN PLUS
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/34699
-#EXTINF:-1 tvg-id="mnx.in" tvg-name="ENGLISH - MNX " tvg-logo="https://go4.pw/India/MNX .png" group-title="Infotainment",ENGLISH - MNX
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/34698
-#EXTINF:-1 tvg-id="moviesnowhd.in" tvg-name="ENGLISH - MOVIES NOW " tvg-logo="https://go4.pw/ASIA/INDIAN/MOVIESNOW.png" group-title="Infotainment",MOVIES NOW
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/34697
-
-#EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="ENGLISH - NATIONAL GEOGRAPHIC " tvg-logo="https://go4.pw/ASIA/INDIAN/NATIONIALGEOGRAPHICCHANNEL.png" group-title="Infotainment",NATIONAL GEOGRAPHIC
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/34693
-#EXTINF:-1 tvg-id="sonybbcearth.in" tvg-name="ENGLISH - SONY BBC EARTH ENGLISH " tvg-logo="https://go4.pw/ASIA/INDIAN/SONYBBCEARTHENGLISH.png" group-title="Infotainment",SONY BBC EARTH ENGLISH
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/34690
-#EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-name="ENGLISH - STAR MOVIES SELECT " tvg-logo="https://go4.pw/ASIA/INDIAN/StarMoviesSelect.png" group-title="Infotainment",STAR MOVIES SELECT
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/34687
-#EXTINF:-1 tvg-id="theqindia.in" tvg-name="ENGLISH - THE QYOU" tvg-logo="https://go4.pw/ASIA/INDIAN/THEQYOU.png" group-title="Infotainment",THE QYOU
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/34682
-#EXTINF:-1 tvg-id="tlchdworld.in" tvg-name="ENGLISH - TLC WORLD " tvg-logo="https://go4.pw/ASIA/INDIAN/TLCWORLD.png" group-title="Infotainment",TLC WORLD
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/34680
-#EXTINF:-1 tvg-id="travelxphd.in" tvg-name="ENGLISH - TRAVEL XP " tvg-logo="https://go4.pw/ASIA/INDIAN/TRAVELXP.png" group-title="Infotainment",TRAVEL XP
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/34679
-#EXTINF:-1 tvg-id="vh1hd.in" tvg-name="ENGLISH - VH1 " tvg-logo="https://go4.pw/ASIA/INDIAN/VH1.png" group-title="Infotainment",VH1
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/34678
-#EXTINF:-1 tvg-id="zeecafehd.in" tvg-name="ENGLISH - ZEE CAFE " tvg-logo="https://go4.pw/India/ZEE cafe.png" group-title="Infotainment",ZEE CAFE
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/34676
-
+  
 #EXTINF:-1 tvg-id="NationalGeographic.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Infotainment",National Geographic East
 https://fl3.moveonjoy.com/National_Geographic/index.m3u8
 
@@ -467,16 +343,10 @@ https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infotainment",BBC Impossible
 https://bbc-impossible-1-us.xumo.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BBCInternational.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="Infotainment",BBC International
-https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_International_channel_hd/iptv_mse_v0_hevc.mpd
 
 #EXTINF:-1 tvg-id="BBCInternational.uk@NorthAmerica" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="Infotainment",BBC North America
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCInternational.uk@AsiaPacific" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="Infotainment",BBC News Asia Pacific 
-https://tv.ddns.vn/tv/bbcworldInternational/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/TopGearLogo.svg" group-title="Infotainment",BBC Top Gear
-https://apollo.production-public.tubi.io/live/ac-bbc-top-gear2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infotainment",BBC Travel
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc830921-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=88187eab-d70d-4b26-a9c4-a5c998b271ff
@@ -485,8 +355,59 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="PersianaScience.fr" tvg-logo="https://i.postimg.cc/jd3ck5dw/persiana-science512.png" group-title="Infotainment",Persiana Science
-https://scihls.persiana.live/hls/stream.m3u8
+
+
+#EXTINF:0 channel-id="pluto-tv-military" channel-number="3080" tvg-logo="https://images.pluto.tv/channels/5bb3fea0f711fd76340eebff/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5bb3fea0f711fd76340eebff/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Pluto TV Military" tvc-guide-description="March along with Pluto TV Military for documentaries, series and movies on the weaponry and technology behind humanity's biggest conflicts. This is the channel for all those who have served, and everyone who honors them." group-title="Infotainment", Pluto TV Military
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5bb3fea0f711fd76340eebff/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=24916658-8a6e-11f0-8a84-880a611a4137&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1043ae4-0b80-4304-a726-ea1d58177fec&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="pluto-tv-history" channel-number="3090" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Pluto TV History" tvc-guide-description="Those who cannot remember the past are condemned to repeat it. Keep the past alive with Pluto TV History, where award-winning docs and shows will educate and entertain you on all the great moments of human history." group-title="Infotainment", Pluto TV History
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=249166b2-8a6e-11f0-973c-880a611a4137&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bf7bd233-76d1-460f-adc7-8dcaad67d57b&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="60-minutes" channel-number="3095" tvg-logo="https://images.pluto.tv/channels/66b646f9cd0d3100086af83c/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/66b646f9cd0d3100086af83c/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="60 Minutes" tvc-guide-description="America's most-watched newsmagazine show revisits CBS News correspondents' reports on important stories and interviews with high-profile guests from around the world." group-title="Infotainment", 60 Minutes
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66b646f9cd0d3100086af83c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=2491670c-8a6e-11f0-b39a-880a611a4137&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3c1c6e1e-94bd-4044-8a16-70720bc958c7&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="cnn-originals" channel-number="3097" tvg-logo="https://images.pluto.tv/channels/66e0b4536ad04d0008fff4b2/colorLogoPNG_1755018282136.png" tvc-guide-art="https://images.pluto.tv/channels/66e0b4536ad04d0008fff4b2/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="CNN Originals" tvc-guide-description="Explore and enjoy acclaimed long-form content from the Emmy® and Peabody® award-winning CNN Originals Series library." group-title="Infotainment", CNN Originals
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66e0b4536ad04d0008fff4b2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=24916770-8a6e-11f0-a0f7-880a611a4137&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a0725428-9b17-4547-bae3-2a33c3dd7aae&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="modern-marvels-presented-by-history" channel-number="3100" tvg-logo="https://images.pluto.tv/channels/65775d29dfed030008cb3db2/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/65775d29dfed030008cb3db2/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Modern Marvels Presented by HISTORY" tvc-guide-description="Celebrate the ingenuity and imagination found in the world around us. 24/7 episodes of Modern Marvels, television's most innovative series." group-title="Infotainment", Modern Marvels Presented by HISTORY
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65775d29dfed030008cb3db2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=249167de-8a6e-11f0-8224-880a611a4137&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=21649a3e-09ba-4764-9f79-2b5febcb79e9&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="real-disaster" channel-number="3105" tvg-logo="https://images.pluto.tv/channels/64d2b6bf9b414d0008187d83/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/64d2b6bf9b414d0008187d83/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Real Disaster Channel" tvc-guide-description="Hard-hitting disaster and survival stories, the Real Disaster Channel delivers high-octane edge-of-your-seat adventure" group-title="Infotainment", Real Disaster Channel
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d2b6bf9b414d0008187d83/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=24916838-8a6e-11f0-83c3-880a611a4137&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ea6538e8-aef6-40d2-a783-ebc41cea5f93&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="pluto-tv-science" channel-number="3110" tvg-logo="https://images.pluto.tv/channels/563a970aa1a1f7fe7c9daad7/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/563a970aa1a1f7fe7c9daad7/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Pluto TV Science" tvc-guide-description="From the depths of the ocean to the distant cosmos, be inspired by crazy experiments and unbelievable science facts on Pluto TV Science." group-title="Infotainment", Pluto TV Science
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=24916892-8a6e-11f0-95ce-880a611a4137&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=269b6a8b-813f-4af2-9f0f-5cc3b76bde9a&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="mythbusters" channel-number="3115" tvg-logo="https://images.pluto.tv/channels/66e0b4866ad04d0008fff4d8/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/66e0b4866ad04d0008fff4d8/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="MythBusters" tvc-guide-description="Two Hollywood special effects experts put urban legends to the test with wild experiments, death-defying stunts and more." group-title="Infotainment", MythBusters
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66e0b4866ad04d0008fff4d8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=249168ec-8a6e-11f0-84c0-880a611a4137&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=23fb3020-9c1a-4ceb-b923-bdbc5f8c18ba&userId=&serverSideAds=true
+
+
+
+
+
+#EXTINF:0 channel-id="bbc-earth" channel-number="3560" tvg-logo="https://images.pluto.tv/channels/656535fc2c46f30008870fae/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/656535fc2c46f30008870fae/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="BBC Earth" tvc-guide-description="BBC Earth brings you heart-pounding action, mind-blowing sights, and the wonder of this amazing planet we call home on Pluto TV." group-title="Infotainment", BBC Earth
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656535fc2c46f30008870fae/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=249280ce-8a6e-11f0-bf95-880a611a4137&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0f828214-6a12-4cd1-8ab8-3f6b057e2fc8&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="dinos-247" channel-number="3565" tvg-logo="https://images.pluto.tv/channels/673bf05ddaad7f0008ac7a5c/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/673bf05ddaad7f0008ac7a5c/featuredImage_1733440524395.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Dinos 24/7" tvc-guide-description="Discover the awe-inspiring world of razor-sharp claws, massive tails, and groundbreaking archaeological finds. With captivating shows like Walking with Dinosaurs and Deadly Dinosaurs, every moment on DINOS 24/7 promises a new adventure!" group-title="Infotainment", Dinos 24/7
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/673bf05ddaad7f0008ac7a5c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=24928132-8a6e-11f0-af93-880a611a4137&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e3340e93-13bb-4107-a3cc-85919f11ab43&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="pbs-nature" channel-number="3580" tvg-logo="https://images.pluto.tv/channels/640a64bd73e013000893d4e0/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/640a64bd73e013000893d4e0/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="PBS Nature" tvc-guide-description="Travel the globe with PBS NATURE and bring spectacular wildlife into your home 24/7." group-title="Infotainment", PBS Nature
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/640a64bd73e013000893d4e0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=2492818c-8a6e-11f0-b333-880a611a4137&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dc1bc625-70b0-4fe7-82d0-99f034e71615&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="love-nature" channel-number="3585" tvg-logo="https://images.pluto.tv/channels/66df8a29b25d2b0008fc5fe0/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/66df8a29b25d2b0008fc5fe0/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Love Nature" tvc-guide-description="Get closer to nature and deepen your understanding of our complex natural world. Filmed in the highest quality, Love Nature offers viewers powerful stories of nature's beauty and wonder from around the globe." group-title="Infotainment", Love Nature
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66df8a29b25d2b0008fc5fe0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=249281e6-8a6e-11f0-835c-880a611a4137&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=82407ef8-50f0-4e40-ba92-7630398bcd27&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="naturescape" channel-number="3590" tvg-logo="https://images.pluto.tv/channels/5812bd9f249444e05d09cc4e/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5812bd9f249444e05d09cc4e/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Naturescape" tvc-guide-description="Naturescape offers you an escape to a world of stunning nature scenes, all set to peaceful soundtracks. Relax to a crackling fireplace, soar over a tropical paradise, or get inspired by a sparkling night sky, all from the comfort of home." group-title="Infotainment", Naturescape
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=24928254-8a6e-11f0-9af3-880a611a4137&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=98aa37ef-fd41-462d-9b1d-1fb763dc47a3&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="the-pet-collective" channel-number="3620" tvg-logo="https://images.pluto.tv/channels/5bb1ad55268cae539bcedb08/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5bb1ad55268cae539bcedb08/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="The Pet Collective" tvc-guide-description="The Pet Collective is home to the top trending clips, most entertaining memes, and funniest animal videos online." group-title="Infotainment", The Pet Collective
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5bb1ad55268cae539bcedb08/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=249282ae-8a6e-11f0-a67e-880a611a4137&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cab23d56-332c-4e13-aa65-264d4580f8a7&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="dog-whisperer-with-cesar-millan" channel-number="3625" tvg-logo="https://images.pluto.tv/channels/664fd48894d5580008e45e7c/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/664fd48894d5580008e45e7c/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Dog Whisperer with Cesar Millan" tvc-guide-description="Renowned dog behaviorist, Cesar Millan, has an uncanny ability to rehabilitate problem dogs of all shapes and sizes. Watch your favorite episodes any time, every day on Pluto TV." group-title="Infotainment", Dog Whisperer with Cesar Millan
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/664fd48894d5580008e45e7c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=24928308-8a6e-11f0-9e0c-880a611a4137&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5e6a439d-16f6-4619-bed1-495b5aff4a32&userId=&serverSideAds=true
+
+
+
 
 
 
