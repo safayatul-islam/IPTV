@@ -126,13 +126,6 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-
 #EXTINF:-1 tvg-id="IslamChannelUrdu.uk" tvg-logo="https://i.imgur.com/j1ZBAgg.png" group-title="Bangladesh",Islam Channel Urdu
 https://live-islamtv-urdu.simplestreamcdn.com/live13/islamtv_urdu/bitrate1.isml/live.m3u8
 
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/deshitv.png",Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
@@ -200,17 +193,21 @@ https://tvsen4.aynaott.com/durontotv/index.m3u8
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="DisneyChannel.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Kids",Disney Channel East
+#EXTINF:-1 tvg-id="DisneyChannel.us@East" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/disneyChannel.png" group-title="Kids",Disney Channel
 https://fl5.moveonjoy.com/DISNEY/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyXD.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" group-title="Kids",Disney XD (720p)
+#EXTINF:-1 tvg-id="DisneyXD.us@East" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/disneyXD.png" group-title="Kids",Disney XD
 http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
 
-#EXTINF:0 channel-id="peppapig" channel-number="3720" tvg-logo="https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoPNG_1730733871298.png" tvc-guide-art="https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/featuredImage_1730733758212.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Peppa Pig" tvc-guide-description="Oink, oink! Play along with Peppa Pig as she embarks on adventures with her family and friends. Get ready to laugh, learn and splash in muddle puddles with Peppa on Pluto TV." group-title="Kids", Peppa Pig
+#EXTINF:0 channel-id="peppapig" channel-number="3720" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/peppa.png" tvc-guide-art="https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/featuredImage_1730733758212.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Peppa Pig" tvc-guide-description="Oink, oink! Play along with Peppa Pig as she embarks on adventures with her family and friends. Get ready to laugh, learn and splash in muddle puddles with Peppa on Pluto TV." group-title="Kids", Peppa Pig
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=2492843e-8a6e-11f0-b3bd-880a611a4137&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=85d1b7a2-97e6-4b50-8bdf-d76a7797c5e7&userId=&serverSideAds=true
 
 
-#EXTINF:0 channel-id="nick-jr-pluto-tv-ptv1" channel-number="3700" tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Nick Jr. Pluto TV" tvc-guide-description="Welcome to Nick Jr. Pluto TV where you’ll find your preschooler’s favorite friends from Bubble Guppies, Blue’s Clues, Wallykazam and many more hit shows!" group-title="Kids", Nick Jr. Pluto TV
+#EXTINF:-1 tvg-id="DoraTV.us" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/peppa.png" group-title="Kids",Peppa Pig 2
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c49-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58d418cb-223d-4b93-bc8e-5666e9995949
+
+
+#EXTINF:0 channel-id="nick-jr-pluto-tv-ptv1" channel-number="3700" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/nickjr.png" tvc-guide-art="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Nick Jr. Pluto TV" tvc-guide-description="Welcome to Nick Jr. Pluto TV where you’ll find your preschooler’s favorite friends from Bubble Guppies, Blue’s Clues, Wallykazam and many more hit shows!" group-title="Kids", Nick Jr. Pluto TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=2492836c-8a6e-11f0-a46d-880a611a4137&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ee868066-a56d-409b-bf15-01a866fcec99&userId=&serverSideAds=true
 
 #EXTINF:0 channel-id="mister-rogers-neighborhood" channel-number="3705" tvg-logo="https://images.pluto.tv/channels/65e23f340d4561000821540d/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/65e23f340d4561000821540d/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Mister Rogers' Neighborhood" tvc-guide-description="It’s a beautiful day in the Neighborhood! For more than 30 years, Mister Rogers brought joy to millions of children. Now revisit those special moments with classic episodes of Mister Rogers’ Neighborhood, available 24/7." group-title="Kids", Mister Rogers' Neighborhood
@@ -231,25 +228,15 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-id="CampSpoopy.us" tvg-logo="https://i.imgur.com/8PUbPVU.png" group-title="Kids",Camp Spoopy
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 
-#EXTINF:-1 tvg-id="PooyaTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png" group-title="Kids",Pooya TV
-http://dvrfl05.bozztv.com/gin-iribpooya/index.m3u8
-#EXTINF:-1 tvg-id="PooyaTVPlus.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png" group-title="Kids",Pooya TV Plus
-https://ncdn.telewebion.com/javaneh/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RoyaKidsOriginals.jo" tvg-logo="https://i.imgur.com/acuCGF8.png" group-title="Kids",Roya Kids Originals
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="DoraTV.us" tvg-logo="https://i.imgur.com/zJuSbmU.png" group-title="Kids",Dora TV 1
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c49-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58d418cb-223d-4b93-bc8e-5666e9995949
-#EXTINF:-1 tvg-id="DoraTV.us@Austria" tvg-logo="https://i.imgur.com/zJuSbmU.png" group-title="Kids",Dora TV 2
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e43c344b54fe800093552f4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1d8ac1-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e1016659-7172-477d-af6b-c71407ba2a5a
-#EXTINF:-1 tvg-id="DoraTV.us@Canada" tvg-logo="https://i.imgur.com/zJuSbmU.png" group-title="Kids",Dora TV 3
+
+
+#EXTINF:-1 tvg-id="DoraTV.us@Canada" tvg-logo="https://i.imgur.com/zJuSbmU.png" group-title="Kids",Dora TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e951258a26d40007b3034c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a0687-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=697806d6-afc8-4125-a899-6ef54b8526fc
-#EXTINF:-1 tvg-id="DoraTV.us@France" tvg-logo="https://i.imgur.com/zJuSbmU.png" group-title="Kids",Dora TV 4
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ecb9524419b0007365a1c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e050350-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c938e920-2111-4877-9e36-97d7a0a0d005
-#EXTINF:-1 tvg-id="DoraTV.us@Germany" tvg-logo="https://i.imgur.com/zJuSbmU.png" group-title="Kids",Dora TV 5
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e43c344b54fe800093552f4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad19e8-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6f38d5cb-dcfd-4261-b299-2bb3409c224c
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.vexels.com/content/180604/preview/90s-kid-lettering-90s-kid-3f1ffa.png" group-title="Kids",90's Kids
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c814939a590008567a3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263254-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a2521e96-4461-4157-b0d7-865b57c5f565
@@ -257,8 +244,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 #EXTINF:-1 tvg-id="SuperSimpleSongs.us" tvg-logo="https://supersimple.com/wp-content/themes/supersimple-wp-theme-main/library/images/logo-home.png" group-title="Kids",Super Simple Songs
 https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://lh3.googleusercontent.com/fzFkxU_r8-mIZF8yV-L_NYZJyx1efQXlg5PvwqbupVooRlrWEl39ks7tF1fuMy9LsNI" group-title="Kids",5-Minute Craft
-https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8
 
 
 
@@ -405,35 +390,6 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 
 #EXTINF:0 channel-id="dog-whisperer-with-cesar-millan" channel-number="3625" tvg-logo="https://images.pluto.tv/channels/664fd48894d5580008e45e7c/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/664fd48894d5580008e45e7c/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Dog Whisperer with Cesar Millan" tvc-guide-description="Renowned dog behaviorist, Cesar Millan, has an uncanny ability to rehabilitate problem dogs of all shapes and sizes. Watch your favorite episodes any time, every day on Pluto TV." group-title="Infotainment", Dog Whisperer with Cesar Millan
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/664fd48894d5580008e45e7c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=24928308-8a6e-11f0-9e0c-880a611a4137&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5e6a439d-16f6-4619-bed1-495b5aff4a32&userId=&serverSideAds=true
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
