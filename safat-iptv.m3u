@@ -199,11 +199,11 @@ https://fl5.moveonjoy.com/DISNEY/index.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" group-title="Kids",Disney XD (720p)
 http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
 
-#EXTINF:0 channel-id="peppapig" channel-number="3720" tvg-logo="https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoPNG_1730733871298.png" tvc-guide-art="https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/featuredImage_1730733758212.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Peppa Pig" tvc-guide-description="Oink, oink! Play along with Peppa Pig as she embarks on adventures with her family and friends. Get ready to laugh, learn and splash in muddle puddles with Peppa on Pluto TV." group-title="Kids", Peppa Pig
+#EXTINF:0 channel-id="peppapig" channel-number="3720" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/peppa.png" tvc-guide-art="https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/featuredImage_1730733758212.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Peppa Pig" tvc-guide-description="Oink, oink! Play along with Peppa Pig as she embarks on adventures with her family and friends. Get ready to laugh, learn and splash in muddle puddles with Peppa on Pluto TV." group-title="Kids", Peppa Pig
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=2492843e-8a6e-11f0-b3bd-880a611a4137&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=85d1b7a2-97e6-4b50-8bdf-d76a7797c5e7&userId=&serverSideAds=true
 
 
-#EXTINF:-1 tvg-id="DoraTV.us" tvg-logo="https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoPNG_1730733871298.png" group-title="Kids",Peppa Pig 2
+#EXTINF:-1 tvg-id="DoraTV.us" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/peppa.png" group-title="Kids",Peppa Pig 2
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c49-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58d418cb-223d-4b93-bc8e-5666e9995949
 
 
