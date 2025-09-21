@@ -6,7 +6,7 @@
 
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/Channel_24bd.png",Channel 24
-https://tvsen6.aynascope.net/channel24/index.m3u8
+https://ch24cdn.ncare.live/channel24/ch24office/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/Jamuna_TV.png",Jamuna TV 
 https://tvsen6.aynaott.com/jamunatv/index.m3u8
