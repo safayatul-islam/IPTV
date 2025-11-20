@@ -292,7 +292,7 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/Int/rt.png" group-title="Infotainment",Russian Times
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/Int/rt.png" group-title="Infotainment",Russian Times
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/Int/rt.png" group-title="Infotainment",RT Russia
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8?v=1
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3300010F5_20250915T233915SQUARE.png",Ancient Aliens
