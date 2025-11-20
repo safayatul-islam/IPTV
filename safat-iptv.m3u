@@ -305,7 +305,7 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-15
 https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/CGTN_Documentary.svg",CGTN Documentary
-https://0472.org/hls/cgtnd.m3u8
+https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/fd143394-5285-40a8-adca-a50243e58288",Popular Science
 https://amg13231-actve-amg13231c5-sportstribal-emea-1269.playouts.now.amagi.tv/playlist/amg13231-actvefast-powder-sportstribalemea/playlist.m3u8
@@ -313,8 +313,6 @@ https://amg13231-actve-amg13231c5-sportstribal-emea-1269.playouts.now.amagi.tv/p
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://wildearth.tv/wp-content/uploads/2024/11/WE-LOGO-2025-WHITE-WEB-1.png",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 
-#EXTINF:-1 tvg-id="CGTNInternational.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_International_logo.png/400px-CGTN_International_logo.png" group-title="Infotainment",CGTN International
-https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://images.pluto.tv/channels/66e0b4536ad04d0008fff4b2/colorLogoPNG_1755018282136.png" group-title="Infotainment", CNN Originals
@@ -322,7 +320,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 
 
 
-#EXTINF:0 channel-id="cnn-originals" channel-number="3097" tvg-logo="https://images.pluto.tv/channels/66e0b4536ad04d0008fff4b2/colorLogoPNG_1755018282136.png" tvc-guide-art="https://images.pluto.tv/channels/66e0b4536ad04d0008fff4b2/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="CNN Originals" tvc-guide-description="Explore and enjoy acclaimed long-form content from the Emmy® and Peabody® award-winning CNN Originals Series library." group-title="Infotainment", CNN Originals
+#EXTINF:0 channel-id="cnn-originals" channel-number="3097" tvg-logo="https://images.pluto.tv/channels/66e0b4536ad04d0008fff4b2/colorLogoPNG_1755018282136.png" tvc-guide-art="https://images.pluto.tv/channels/66e0b4536ad04d0008fff4b2/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="CNN Originals B" tvc-guide-description="Explore and enjoy acclaimed long-form content from the Emmy® and Peabody® award-winning CNN Originals Series library." group-title="Infotainment", CNN Originals
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66e0b4536ad04d0008fff4b2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=24916770-8a6e-11f0-a0f7-880a611a4137&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a0725428-9b17-4547-bae3-2a33c3dd7aae&userId=&serverSideAds=true
 
 
