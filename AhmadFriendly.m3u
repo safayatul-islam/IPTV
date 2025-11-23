@@ -199,6 +199,9 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",Duronto TV 
 https://tvsen4.aynaott.com/durontotv/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/CBeebies.png" group-title="Test & Archive",CBeebies UK
+https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
+
 #EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/BBCKids.png",BBC Kids
 https://dmr1h4skdal9h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-msbj6srh7nhug/playlist.m3u8
 
@@ -219,14 +222,11 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTINF:-1 tvg-id="DoraTV.us" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/peppa.png" group-title="Kids",Peppa Pig 2
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c49-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58d418cb-223d-4b93-bc8e-5666e9995949
 
-#EXTINF:-1 group-title="Kids" tvg-id="CHCH.Hamilton.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/knowledge-network-ca.png",0. Knowledge Network
-https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
 
-#EXTINF:0 channel-id="nick-jr-pluto-tv-ptv1" channel-number="3700" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/nickjr.png" tvc-guide-art="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Nick Jr. Pluto TV" tvc-guide-description="Welcome to Nick Jr. Pluto TV where you’ll find your preschooler’s favorite friends from Bubble Guppies, Blue’s Clues, Wallykazam and many more hit shows!" group-title="Kids", Nick Jr. Pluto TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/nickjr.png" group-title="Kids", Nick Jr. Pluto TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=2492836c-8a6e-11f0-a46d-880a611a4137&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ee868066-a56d-409b-bf15-01a866fcec99&userId=&serverSideAds=true
 
-#EXTINF:0 channel-id="mister-rogers-neighborhood" channel-number="3705" tvg-logo="https://images.pluto.tv/channels/65e23f340d4561000821540d/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/65e23f340d4561000821540d/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Mister Rogers' Neighborhood" tvc-guide-description="It’s a beautiful day in the Neighborhood! For more than 30 years, Mister Rogers brought joy to millions of children. Now revisit those special moments with classic episodes of Mister Rogers’ Neighborhood, available 24/7." group-title="Kids", Mister Rogers' Neighborhood
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65e23f340d4561000821540d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=249283e4-8a6e-11f0-afcb-880a611a4137&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6cd67ed8-fb58-4104-b850-43d8be7b3d08&userId=&serverSideAds=true
+
 
 
 #EXTINF:0 channel-id="pokemon" channel-number="3805" tvg-logo="https://images.pluto.tv/channels/6675c7868768aa0008d7f1c7/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/6675c7868768aa0008d7f1c7/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Pokémon" tvc-guide-description="Explore the world of Pokémon with Ash Ketchum and his partner Pikachu as they make new friends, meet powerful Pokémon, and aim for Ash’s ultimate goal: becoming a Pokémon Master!" group-title="Kids", Pokémon
@@ -256,8 +256,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.vexels.com/content/180604/preview/90s-kid-lettering-90s-kid-3f1ffa.png" group-title="Kids",90's Kids
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c814939a590008567a3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263254-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a2521e96-4461-4157-b0d7-865b57c5f565
 
-#EXTINF:-1 tvg-id="SuperSimpleSongs.us" tvg-logo="https://supersimple.com/wp-content/themes/supersimple-wp-theme-main/library/images/logo-home.png" group-title="Kids",Super Simple Songs
-https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8
 
 
 
@@ -273,13 +271,19 @@ https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/Int/Aljazeera.png" group-title="Infotainment",Al Jazeera
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/Int/DW.png" group-title="Infotainment",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/Int/BBC_News.png" group-title="Infotainment",BBC News
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_3000000=8-mp4a_208000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/Int/BBC_News.png" group-title="Infotainment",BBC News HD
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/Int/BBC_News.png" group-title="Infotainment",BBC News M
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/Int/CNBC.png" group-title="Infotainment",CNBC
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcuk-samsunggb/playlist.m3u8
@@ -299,7 +303,13 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/Int/rt.png" group-title="Infotainment",RT Russia
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8?v=1
 
-#EXTINF:0 channel-id="modern-marvels-presented-by-history" channel-number="3100" tvg-logo="https://images.pluto.tv/channels/65775d29dfed030008cb3db2/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/65775d29dfed030008cb3db2/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Modern Marvels Presented by HISTORY" tvc-guide-description="Celebrate the ingenuity and imagination found in the world around us. 24/7 episodes of Modern Marvels, television's most innovative series." group-title="Infotainment", Modern Marvels Presented by HISTORY
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/knowledge-network-ca.png",Knowledge Network
+https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
+
+#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/65e23f340d4561000821540d/colorLogoPNG.png"  group-title="Kids", Mister Rogers' Neighborhood
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65e23f340d4561000821540d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=249283e4-8a6e-11f0-afcb-880a611a4137&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6cd67ed8-fb58-4104-b850-43d8be7b3d08&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/infotainment/modern-marvels.png" group-title="Infotainment", Modern Marvels
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65775d29dfed030008cb3db2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=249167de-8a6e-11f0-8224-880a611a4137&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=21649a3e-09ba-4764-9f79-2b5febcb79e9&userId=&serverSideAds=true
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3300010F5_20250915T233915SQUARE.png",Ancient Aliens
@@ -441,6 +451,105 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 
 
 
+
+
+
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: Test & Archive :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Test & Archive",BBC Three/CBBC S1
+https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Test & Archive",BBC Three/CBBC S2
+https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Test & Archive",BBC Four/CBeebies S1
+https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Test & Archive",BBC Four/CBeebies S2
+https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 
 
 
