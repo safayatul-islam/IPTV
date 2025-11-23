@@ -303,13 +303,13 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/Int/rt.png" group-title="Infotainment",RT Russia
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8?v=1
 
-#EXTINF:-1 group-title="Kids" tvg-id="CHCH.Hamilton.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/knowledge-network-ca.png",Knowledge Network
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/knowledge-network-ca.png",Knowledge Network
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
 
 #EXTINF:0 tvg-logo="https://images.pluto.tv/channels/65e23f340d4561000821540d/colorLogoPNG.png"  group-title="Kids", Mister Rogers' Neighborhood
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65e23f340d4561000821540d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=249283e4-8a6e-11f0-afcb-880a611a4137&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6cd67ed8-fb58-4104-b850-43d8be7b3d08&userId=&serverSideAds=true
 
-#EXTINF:0 tvg-logo="modern-marvels.png" group-title="Infotainment", Modern Marvels
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/infotainment/modern-marvels.png" group-title="Infotainment", Modern Marvels
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65775d29dfed030008cb3db2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=249167de-8a6e-11f0-8224-880a611a4137&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=21649a3e-09ba-4764-9f79-2b5febcb79e9&userId=&serverSideAds=true
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3300010F5_20250915T233915SQUARE.png",Ancient Aliens
