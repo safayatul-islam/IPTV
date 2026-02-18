@@ -196,30 +196,33 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",Duronto TV 
+#EXTINF:0 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/Duronto.png",Duronto TV 
 https://tvsen4.aynaott.com/durontotv/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/CBeebies.png" group-title="Kids",CBeebies UK
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/CBeebies.png" group-title="Kids",CBeebies UK
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/BBCKids.png",BBC Kids
+#EXTINF:0 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/BBCKids.png",BBC Kids
 https://dmr1h4skdal9h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-msbj6srh7nhug/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ZooMoo.sg" tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="Kids",ZooMoo
+#EXTINF:0 tvg-id="ZooMoo.sg" tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="Kids",ZooMoo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/ABC_Kids.png" group-title="Kids",ABC Kids
+https://c.mjh.nz/abc-kids.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-id="PBSkids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/PBS_Kids_%282022%29.svg",PBS Kids
+
+#EXTINF:0 group-title="Kids" tvg-id="PBSkids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/PBS_Kids_%282022%29.svg",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-id="Boomerang" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/Boomerang.png",Boomerang
+#EXTINF:0 group-title="Kids" tvg-id="Boomerang" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/Boomerang.png",Boomerang
 https://e2.thetvapp.to/hls/Boomerang/tracks-v1a1/mono.m3u8?token=QqMZ-c8Lz3FDezbSedltLw&expires=1760730512&user_id=MjcuMTQ3LjE4Ni42MA==
 
 #EXTINF:0 channel-id="peppapig" channel-number="3720" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/peppa.png" tvc-guide-art="https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/featuredImage_1730733758212.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Peppa Pig" tvc-guide-description="Oink, oink! Play along with Peppa Pig as she embarks on adventures with her family and friends. Get ready to laugh, learn and splash in muddle puddles with Peppa on Pluto TV." group-title="Kids", Peppa Pig
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=2492843e-8a6e-11f0-b3bd-880a611a4137&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=85d1b7a2-97e6-4b50-8bdf-d76a7797c5e7&userId=&serverSideAds=true
 
 
-#EXTINF:-1 tvg-id="DoraTV.us" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/peppa.png" group-title="Kids",Peppa Pig 2
+#EXTINF:0 tvg-id="DoraTV.us" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/peppa.png" group-title="Kids",Peppa Pig 2
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c49-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58d418cb-223d-4b93-bc8e-5666e9995949
 
 
@@ -233,17 +236,17 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6675c7868768aa0008d7f1c7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=2492890c-8a6e-11f0-953f-880a611a4137&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3c85f296-cbe6-48b0-8474-de375a23a68c&userId=&serverSideAds=true
 
 
-#EXTINF:-1  tvg-id="babyfirst.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/baby-first-tv-us.png?raw=true" group-title="Kids" radio="false",Baby First
+#EXTINF:0  tvg-id="babyfirst.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/baby-first-tv-us.png?raw=true" group-title="Kids" radio="false",Baby First
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
 
-#EXTINF:-1 tvg-id="TomAndJerry.us@" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Tom_and_Jerry_logo.svg" group-title="Kids",Tom And Jerry
+#EXTINF:0 tvg-id="TomAndJerry.us@" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Tom_and_Jerry_logo.svg" group-title="Kids",Tom And Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="CampSpoopy.us" tvg-logo="https://i.imgur.com/8PUbPVU.png" group-title="Kids",Camp Spoopy
+#EXTINF:0 tvg-id="CampSpoopy.us" tvg-logo="https://i.imgur.com/8PUbPVU.png" group-title="Kids",Camp Spoopy
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 
-#EXTINF:-1 tvg-id="RoyaKidsOriginals.jo" tvg-logo="https://i.imgur.com/acuCGF8.png" group-title="Kids",Roya Kids Originals
+#EXTINF:0 tvg-id="RoyaKidsOriginals.jo" tvg-logo="https://i.imgur.com/acuCGF8.png" group-title="Kids",Roya Kids Originals
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8
 
 
@@ -253,7 +256,7 @@ https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/pla
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e951258a26d40007b3034c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a0687-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=697806d6-afc8-4125-a899-6ef54b8526fc
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.vexels.com/content/180604/preview/90s-kid-lettering-90s-kid-3f1ffa.png" group-title="Kids",90's Kids
+#EXTINF:0 tvg-id="" tvg-logo="https://images.vexels.com/content/180604/preview/90s-kid-lettering-90s-kid-3f1ffa.png" group-title="Kids",90's Kids
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c814939a590008567a3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263254-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a2521e96-4461-4157-b0d7-865b57c5f565
 
 
@@ -456,20 +459,35 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 
 
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: Test & Archive :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: Test & Archive :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Test & Archive",BBC Three/CBBC S1
+#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Test & Archive",BalapanTV
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Test & Archive",Classic Cartoon
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8?ads.vf=7TNIxrkadpW
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Test & Archive",Chinola TV
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Test & Archive",CT art
+http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
+
+
+
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Test & Archive",BBC Three/CBBC S1
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Test & Archive",BBC Three/CBBC S2
+#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Test & Archive",BBC Three/CBBC S2
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Test & Archive",BBC Four/CBeebies S1
+#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Test & Archive",BBC Four/CBeebies S1
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Test & Archive",BBC Four/CBeebies S2
+#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Test & Archive",BBC Four/CBeebies S2
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
 
 
@@ -491,50 +509,17 @@ https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.
 
 
 
-
-  
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/c.png" group-title="© Ahmad Sadit",Collection by Safayatul Islam
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/c.png" group-title="© Safayatul Islam",Collection by Safayatul Islam
 https://fl3.eee/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/c.png" group-title="© Ahmad Sadit",For Personal Use Only
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/c.png" group-title="© Safayatul Islam",For Personal Use Only
 https://fl3.eee/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/c.png" group-title="© Ahmad Sadit",Contact: safayatul@outlook.com
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/c.png" group-title="© Safayatul Islam",Contact: safayatul@outlook.com
 https://fl3.eee/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/c.png" group-title="© Ahmad Sadit",Last Update: 24 Nov 2025
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/c.png" group-title="© Safayatul Islam",Last Update: 20 Feb 2026
 https://fl3.eee/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
