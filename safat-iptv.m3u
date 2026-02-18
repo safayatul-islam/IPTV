@@ -196,7 +196,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 
-#EXTINF:0 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",Duronto TV 
+#EXTINF:0 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/Duronto.png",Duronto TV 
 https://tvsen4.aynaott.com/durontotv/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/CBeebies.png" group-title="Kids",CBeebies UK
@@ -575,3 +575,4 @@ https://fl3.eee/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/c.png" group-title="© Safayatul Islam",Last Update: 20 Feb 2026
 https://fl3.eee/index.m3u8
+
