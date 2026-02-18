@@ -110,33 +110,6 @@ https://tvsen6.aynaott.com/globaltvhd/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/Ekhon.png",Ekhon TV
 https://tvsen6.aynaott.com/ekhontv/index.m3u8
 
-#EXTINF:-1 tvg-id="PeaceTVBangla.ae" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/PeaceTV.png" group-title="Bangladesh",Peace TV Bangla
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="PeaceTVEnglish.ae" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/PeaceTVE.png" group-title="Bangladesh",Peace TV English
-https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
-
-
-#EXTINF:-1 tvg-id="MakkahTV.sa" tvg-logo="https://i.imgur.com/PRPcOi0.png" group-title="Bangladesh",Makkah TV
-https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
-
-#EXTINF:-1 tvg-id="QuranTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/d/df/Quarntvlogo.png" group-title="Bangladesh",Quran
-https://lenz.splus.ir/PLTV/88888888/224/3221226144/index.m3u8
-
-#EXTINF:-1 tvg-id="WesalTV.id" tvg-logo="https://i.imgur.com/Uv8RWks.png" group-title="Bangladesh",Wesal TV
-https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
-
-#EXTINF:-1 tvg-id="MarjaeyatTVEnglish.iq" tvg-logo="https://i.imgur.com/Dvf61Jp.png" group-title="Bangladesh",Marjaeyat TV English
-https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MadaniChannelBangla.bd" tvg-logo="https://i.imgur.com/vIJTVia.png" group-title="Bangladesh",Madani Channel
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
-
-#EXTINF:-1 tvg-id="IslamChannelUrdu.uk" tvg-logo="https://i.imgur.com/j1ZBAgg.png" group-title="Bangladesh",Islam Channel Urdu
-https://live-islamtv-urdu.simplestreamcdn.com/live13/islamtv_urdu/bitrate1.isml/live.m3u8
-
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/deshitv.png",Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
@@ -182,6 +155,75 @@ http://cdn01.palki.tv/live/TBN24-M/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/vtv.png",Varendra TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/varendratv.stream/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::Islamic::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
+
+
+#EXTINF:-1 tvg-id="PeaceTVBangla.ae" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/PeaceTV.png" group-title="Islamic",Peace TV Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="PeaceTVEnglish.ae" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/PeaceTVE.png" group-title="Islamic",Peace TV English
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+
+
+#EXTINF:-1 tvg-id="MakkahTV.sa" tvg-logo="https://i.imgur.com/PRPcOi0.png" group-title="Islamic",Makkah TV
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+
+#EXTINF:-1 tvg-id="QuranTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/d/df/Quarntvlogo.png" group-title="Islamic",Quran
+https://lenz.splus.ir/PLTV/88888888/224/3221226144/index.m3u8
+
+#EXTINF:-1 tvg-id="WesalTV.id" tvg-logo="https://i.imgur.com/Uv8RWks.png" group-title="Islamic",Wesal TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
+
+#EXTINF:-1 tvg-id="MarjaeyatTVEnglish.iq" tvg-logo="https://i.imgur.com/Dvf61Jp.png" group-title="Islamic",Marjaeyat TV English
+https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MadaniChannelBangla.bd" tvg-logo="https://i.imgur.com/vIJTVia.png" group-title="Islamic",Madani Channel
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+
+#EXTINF:-1 tvg-id="IslamChannelUrdu.uk" tvg-logo="https://i.imgur.com/j1ZBAgg.png" group-title="Islamic",Islam Channel Urdu
+https://live-islamtv-urdu.simplestreamcdn.com/live13/islamtv_urdu/bitrate1.isml/live.m3u8
+
+
+
+
+
+
+
 
 
 
@@ -465,6 +507,18 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 #EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Test & Archive",BalapanTV
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 
+#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Test & Archive",Classic Cartoon
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8?ads.vf=7TNIxrkadpW
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Test & Archive",Chinola TV
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Test & Archive",CT art
+http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
+
+
+
+
 #EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Test & Archive",BBC Three/CBBC S1
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
 
@@ -477,11 +531,6 @@ https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Test & Archive",BBC Four/CBeebies S2
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
-
-
-
-
-
 
 
 
@@ -578,5 +627,6 @@ https://fl3.eee/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/c.png" group-title="© Safayatul Islam",Last Update: 20 Feb 2026
 https://fl3.eee/index.m3u8
+
 
 
