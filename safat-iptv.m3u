@@ -18,22 +18,16 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://tvsen5.aynascope.net/maasrangatv/tracks-v1a1/mono.ts.m3u8?e=1771744094&token=f38611d5ef127241f32e578855f45023&u=6e43c254-f917-4c53-bf7b-b6076750b76c
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/ATN.png",ATN Bangla
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8
-
+https://tvsen5.aynascope.net/atnbangla/tracks-v1a1/mono.ts.m3u8?e=1771744405&token=2aba3b52a94b020558292a336c48b561&u=6e43c254-f917-4c53-bf7b-b6076750b76c
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/Bangladesh_Television.png",BTV
-http://103.230.105.252:1935/live/btv/manifest.m3u8
+https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/BTV_News.png",BTV News
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8
-
+https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/BTV_Chattogram.png",BTV Chattogram
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational-ctg.stream/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/Ekushey_Television.png",Ekushe ETV
-https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
 
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/Independent_Television.png",Independent TV
@@ -626,6 +620,7 @@ https://fl3.eee/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/c.png" group-title="© Safayatul Islam",Last Update: 20 Feb 2026
 https://fl3.eee/index.m3u8
+
 
 
 
