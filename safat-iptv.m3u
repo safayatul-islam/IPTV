@@ -241,10 +241,10 @@ https://live-islamtv-urdu.simplestreamcdn.com/live13/islamtv_urdu/bitrate1.isml/
 
 
 #EXTINF:0 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/Duronto.png",Duronto TV 
-https://tvsen4.aynaott.com/durontotv/index.m3u8
-
-#EXTINF:0 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/Duronto.png",Duronto TV B
 http://103.229.254.25:7001/play/a05k/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/Classic.svg" group-title="Kids",Classic Cartoon
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8?ads.vf=7TNIxrkadpW
 
 #EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/CBeebies.png" group-title="Kids",CBeebies UK
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
@@ -307,6 +307,17 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c814939a590008567a3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263254-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a2521e96-4461-4157-b0d7-865b57c5f565
 
 
+#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Kids",BalapanTV
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Kids",Chinola TV
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Kids",CT art
+http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
+
+#EXTINF:0 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/Duronto.png",Duronto TV B
+https://tvsen4.aynaott.com/durontotv/index.m3u8
 
 
 
@@ -480,17 +491,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: Test & Archive :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Test & Archive",BalapanTV
-https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Test & Archive",Classic Cartoon
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8?ads.vf=7TNIxrkadpW
-
-#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Test & Archive",Chinola TV
-https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Test & Archive",CT art
-http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
 
 
 
@@ -603,6 +604,7 @@ https://fl3.eee/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/c.png" group-title="© Safayatul Islam",Last Update: 20 Feb 2026
 https://fl3.eee/index.m3u8
+
 
 
 
