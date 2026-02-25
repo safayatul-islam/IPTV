@@ -109,10 +109,10 @@ http://103.229.254.25:7001/play/a066/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/banglatv.png",Bangla TV 
 http://116.204.149.16/banglatv/index.m3u8
 
-#EXTINF:-1 group-title="Bangladesh" tvg-logo=""https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/mohonatv",Mohona TV 
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/mohonatv.png",Mohona TV 
 http://103.229.254.25:7001/play/a05t/index.m3u8
 
-#EXTINF:-1 group-title="Bangladesh" tvg-logo=""https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/movieban.png",Movie Bangla
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/movieban.png",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/mytv.png",My TV
@@ -563,6 +563,7 @@ https://fl3.eee/index.m3u8
 ::::::::::::::::::::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::::::
+
 
 
 
