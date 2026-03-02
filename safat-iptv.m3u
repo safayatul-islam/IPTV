@@ -150,13 +150,13 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-
 #EXTINF:-1 tvg-id="PeaceTVEnglish.ae" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/PeaceTVE.png" group-title="Islamic",Peace TV English
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 
-#EXTINF:-1 group-title="-",Saudi Quran
+#EXTINF:-1 group-title="Islamic",Saudi Quran
 http://103.229.254.25:7001/play/a07z/index.m3u8
 
-#EXTINF:-1 group-title="-",Saudi Sunnah
+#EXTINF:-1 group-title="Islamic",Saudi Sunnah
 http://103.229.254.25:7001/play/a07y/index.m3u8
 
-#EXTINF:-1 group-title="-",Saudi TV1 HD
+#EXTINF:-1 group-title="Islamic",Saudi TV1 HD
 http://103.229.254.25:7001/play/a07v/index.m3u8
 
 #EXTINF:-1 tvg-id="MakkahTV.sa" tvg-logo="https://i.imgur.com/PRPcOi0.png" group-title="Islamic",Makkah TV
@@ -561,6 +561,7 @@ https://fl3.eee/index.m3u8
 ::::::::::::::::::::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::::::
+
 
 
 
