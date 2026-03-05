@@ -195,17 +195,20 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-
 #EXTINF:0 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/Duronto.png",Duronto TV 
 http://103.229.254.25:7001/play/a05k/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/Classic.svg" group-title="Kids",Classic Cartoon
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8?ads.vf=7TNIxrkadpW
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/CBeebies.svg" group-title="Kids",CBeebies
+https://cdn4.skygo.mn/live/disk1/Cbeebies/HLSv3-FTA/Cbeebies.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/CBeebies.svg" group-title="Kids",CBeebies Asia
-https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/nickjr.png" group-title="Kids", Nick Jr.
+http://103.229.254.25:7001/play/a0di/index.m3u8
+
+#EXTINF:0 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/DisneyJunir.png",Disney Junior
+http://103.229.254.25:7001/play/a09r/index.m3u8
 
 #EXTINF:0 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/BBCKids.png",BBC Kids
 https://dmr1h4skdal9h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-msbj6srh7nhug/playlist.m3u8
 
-#EXTINF:0 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/DisneyJunir.png",Disney Junior
-http://103.229.254.25:7001/play/a09r/index.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/Classic.svg" group-title="Kids",Classic Cartoon
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8?ads.vf=7TNIxrkadpW
 
 #EXTINF:0 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/Nickelodeon.png",Nick HD+
 http://116.90.120.128:8000/play/a0i3/index.m3u88
@@ -225,35 +228,11 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/CBeebies.png" group-title="Kids",CBeebies UK
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
 
-#EXTINF:0 channel-id="peppapig" channel-number="3720" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/peppa.png" tvc-guide-art="https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/featuredImage_1730733758212.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Peppa Pig" tvc-guide-description="Oink, oink! Play along with Peppa Pig as she embarks on adventures with her family and friends. Get ready to laugh, learn and splash in muddle puddles with Peppa on Pluto TV." group-title="Kids", Peppa Pig
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=2492843e-8a6e-11f0-b3bd-880a611a4137&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=85d1b7a2-97e6-4b50-8bdf-d76a7797c5e7&userId=&serverSideAds=true
-
-
-#EXTINF:0 tvg-id="DoraTV.us" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/peppa.png" group-title="Kids",Peppa Pig 2
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c49-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58d418cb-223d-4b93-bc8e-5666e9995949
-
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/kids/nickjr.png" group-title="Kids", Nick Jr.
-http://103.229.254.25:7001/play/a0di/index.m3u8
-
-
-#EXTINF:0 channel-id="pokemon" channel-number="3805" tvg-logo="https://images.pluto.tv/channels/6675c7868768aa0008d7f1c7/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/6675c7868768aa0008d7f1c7/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Pokémon" tvc-guide-description="Explore the world of Pokémon with Ash Ketchum and his partner Pikachu as they make new friends, meet powerful Pokémon, and aim for Ash’s ultimate goal: becoming a Pokémon Master!" group-title="Kids", Pokémon
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6675c7868768aa0008d7f1c7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=2492890c-8a6e-11f0-953f-880a611a4137&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3c85f296-cbe6-48b0-8474-de375a23a68c&userId=&serverSideAds=true
-
 #EXTINF:0 tvg-id="CampSpoopy.us" tvg-logo="https://i.imgur.com/8PUbPVU.png" group-title="Kids",Camp Spoopy
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 
-#EXTINF:0 tvg-id="RoyaKidsOriginals.jo" tvg-logo="https://i.imgur.com/acuCGF8.png" group-title="Kids",Roya Kids Originals
+#EXTINF:0 tvg-id="RoyaKidsOriginals.jo" tvg-logo="https://i.imgur.com/acuCGF8.png" group-title="Kids",Roya Kids
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8
-
-
-#EXTINF:0 tvg-id="DoraTV.us@Canada" tvg-logo="https://i.imgur.com/zJuSbmU.png" group-title="Kids",Dora TV
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e951258a26d40007b3034c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a0687-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=697806d6-afc8-4125-a899-6ef54b8526fc
-
-
-#EXTINF:0 tvg-id="" tvg-logo="https://images.vexels.com/content/180604/preview/90s-kid-lettering-90s-kid-3f1ffa.png" group-title="Kids",90's Kids
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c814939a590008567a3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263254-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a2521e96-4461-4157-b0d7-865b57c5f565
-
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Kids",BalapanTV
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
@@ -564,6 +543,7 @@ https://fl3.eee/index.m3u8
 ::::::::::::::::::::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::::::
+
 
 
 
